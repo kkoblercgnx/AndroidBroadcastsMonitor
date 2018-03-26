@@ -34,6 +34,8 @@
         <item>android.hardware.action.NEW_VIDEO</item>
         <item>android.hardware.action.NEW_PICTURE</item>
         <item>android.hardware.input.action.QUERY_KEYBOARD_LAYOUTS</item>
+        <item>android.hardware.usb.action.USB_DEVICE_ATTACHED</item>
+        <item>android.hardware.usb.action.USB_ACCESSORY_ATTACHED</item>
         <item>android.intent.action.ACTION_POWER_CONNECTED</item>
         <item>android.intent.action.ACTION_POWER_DISCONNECTED</item>
         <item>android.intent.action.ACTION_SHUTDOWN</item>
